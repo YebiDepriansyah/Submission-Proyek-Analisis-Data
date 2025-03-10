@@ -20,7 +20,7 @@
 ## **Run Streamlit App**
 Setelah environment diaktifkan, jalankan aplikasi Streamlit:
     ```bash
-    python -m streamlit run dashboard/dashboard.py
+    python streamlit run dashboard/dashboard.py
     ```
 
 ## **Fitur Dashboard**
