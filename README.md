@@ -1,4 +1,4 @@
-# Dashboard Analisis Kualitas Udara
+Dashboard Analisis Kualitas Udara ✨
 
 Setup Environment - Anaconda
 conda create --name main-ds python=3.9
